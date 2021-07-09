@@ -12,7 +12,11 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
+h1{
+    font-family: 'SEGA LOGO FONT';
+    font-weight: 200;
+    color:#00868B;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
