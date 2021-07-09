@@ -4,49 +4,14 @@ body{
 }
 .height{
 
-    height: 450px;
-  
-
-   
+    height: 431px;  
 
 }
 
-.a{
-    position: fixed;
-    bottom: 200px;
-    
-}
-
-.b{
-    position: fixed;
-    bottom: 150px;
-  
-}
-.c{
-    position: fixed;
-    bottom: 100px;
-  
-    
-}
-
-.cent {
-    margin-right: auto;
-    margin-left: auto;
-}
-
-.d{
-    position: fixed;
-    bottom: 50px;
-  
-}
 
 
 
 
-.btns{
-  
-  
-}
 
 h5{
     display: block;
